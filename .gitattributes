@@ -1,0 +1,3 @@
+*.cmake linguist-detectable=false
+Makefile linguist-detectable=false
+*.cxx linguist-detectable=true
